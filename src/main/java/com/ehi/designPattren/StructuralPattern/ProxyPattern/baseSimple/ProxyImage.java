@@ -1,4 +1,4 @@
-package com.ehi.designPattren.StructuralPattern.ProxyPattern;
+package com.ehi.designPattren.StructuralPattern.ProxyPattern.baseSimple;
 
 /**
  * ClassName: s
